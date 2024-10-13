@@ -6,5 +6,5 @@ DEVELOPMENT_TEAM = X7UJ388FXK
 // The bundle identifier of the apps.
 // Should be an app id created at developer.apple.com
 // with Network Extensions capabilty.
-APP_ID_IOS = org.amnezia.awg
-APP_ID_MACOS = org.amnezia.awg
+APP_ID_IOS = com.zloserver.vpn
+APP_ID_MACOS = com.zloserver.vpn
